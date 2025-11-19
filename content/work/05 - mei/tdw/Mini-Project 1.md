@@ -1,0 +1,4 @@
+- ![[Pasted image 20251013111330.png]]
+	- gitflow without release branch
+- Lint runs into "app" and "lib"
+- 
